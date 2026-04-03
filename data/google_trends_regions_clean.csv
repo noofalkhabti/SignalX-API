@@ -1,0 +1,14 @@
+﻿region,freelance_interest,delivery_interest,bahr_interest,khamsat_interest,mostaql_interest,source,granularity
+Hail Province,23,8,51,9,9,google_trends,province
+Al Jowf,19,8,51,14,8,google_trends,province
+Jazan,16,6,61,10,7,google_trends,province
+Aseer Province,14,5,64,8,9,google_trends,province
+Northern Borders Province,18,8,55,11,8,google_trends,province
+Najran,17,5,52,20,6,google_trends,province
+Tabuk Province,18,6,58,11,7,google_trends,province
+Al Bahah Province,15,8,55,12,10,google_trends,province
+Al Qassim,16,6,52,15,11,google_trends,province
+Al Madinah Province,14,6,56,14,10,google_trends,province
+Makkah Province,11,6,62,12,9,google_trends,province
+Riyadh Province,12,5,56,17,10,google_trends,province
+Eastern Province,10,4,65,13,8,google_trends,province

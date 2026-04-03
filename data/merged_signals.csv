@@ -1,0 +1,76 @@
+﻿date,city,source,platform,category,metric_name,metric_value
+,Hail Province,google_trends,google_trends,search_interest,freelance_interest,23
+,Al Jowf,google_trends,google_trends,search_interest,freelance_interest,19
+,Jazan,google_trends,google_trends,search_interest,freelance_interest,16
+,Aseer Province,google_trends,google_trends,search_interest,freelance_interest,14
+,Northern Borders Province,google_trends,google_trends,search_interest,freelance_interest,18
+,Najran,google_trends,google_trends,search_interest,freelance_interest,17
+,Tabuk Province,google_trends,google_trends,search_interest,freelance_interest,18
+,Al Bahah Province,google_trends,google_trends,search_interest,freelance_interest,15
+,Al Qassim,google_trends,google_trends,search_interest,freelance_interest,16
+,Al Madinah Province,google_trends,google_trends,search_interest,freelance_interest,14
+,Makkah Province,google_trends,google_trends,search_interest,freelance_interest,11
+,Riyadh Province,google_trends,google_trends,search_interest,freelance_interest,12
+,Eastern Province,google_trends,google_trends,search_interest,freelance_interest,10
+,Hail Province,google_trends,google_trends,search_interest,delivery_interest,8
+,Al Jowf,google_trends,google_trends,search_interest,delivery_interest,8
+,Jazan,google_trends,google_trends,search_interest,delivery_interest,6
+,Aseer Province,google_trends,google_trends,search_interest,delivery_interest,5
+,Northern Borders Province,google_trends,google_trends,search_interest,delivery_interest,8
+,Najran,google_trends,google_trends,search_interest,delivery_interest,5
+,Tabuk Province,google_trends,google_trends,search_interest,delivery_interest,6
+,Al Bahah Province,google_trends,google_trends,search_interest,delivery_interest,8
+,Al Qassim,google_trends,google_trends,search_interest,delivery_interest,6
+,Al Madinah Province,google_trends,google_trends,search_interest,delivery_interest,6
+,Makkah Province,google_trends,google_trends,search_interest,delivery_interest,6
+,Riyadh Province,google_trends,google_trends,search_interest,delivery_interest,5
+,Eastern Province,google_trends,google_trends,search_interest,delivery_interest,4
+,Hail Province,google_trends,google_trends,search_interest,bahr_interest,51
+,Al Jowf,google_trends,google_trends,search_interest,bahr_interest,51
+,Jazan,google_trends,google_trends,search_interest,bahr_interest,61
+,Aseer Province,google_trends,google_trends,search_interest,bahr_interest,64
+,Northern Borders Province,google_trends,google_trends,search_interest,bahr_interest,55
+,Najran,google_trends,google_trends,search_interest,bahr_interest,52
+,Tabuk Province,google_trends,google_trends,search_interest,bahr_interest,58
+,Al Bahah Province,google_trends,google_trends,search_interest,bahr_interest,55
+,Al Qassim,google_trends,google_trends,search_interest,bahr_interest,52
+,Al Madinah Province,google_trends,google_trends,search_interest,bahr_interest,56
+,Makkah Province,google_trends,google_trends,search_interest,bahr_interest,62
+,Riyadh Province,google_trends,google_trends,search_interest,bahr_interest,56
+,Eastern Province,google_trends,google_trends,search_interest,bahr_interest,65
+,Hail Province,google_trends,google_trends,search_interest,khamsat_interest,9
+,Al Jowf,google_trends,google_trends,search_interest,khamsat_interest,14
+,Jazan,google_trends,google_trends,search_interest,khamsat_interest,10
+,Aseer Province,google_trends,google_trends,search_interest,khamsat_interest,8
+,Northern Borders Province,google_trends,google_trends,search_interest,khamsat_interest,11
+,Najran,google_trends,google_trends,search_interest,khamsat_interest,20
+,Tabuk Province,google_trends,google_trends,search_interest,khamsat_interest,11
+,Al Bahah Province,google_trends,google_trends,search_interest,khamsat_interest,12
+,Al Qassim,google_trends,google_trends,search_interest,khamsat_interest,15
+,Al Madinah Province,google_trends,google_trends,search_interest,khamsat_interest,14
+,Makkah Province,google_trends,google_trends,search_interest,khamsat_interest,12
+,Riyadh Province,google_trends,google_trends,search_interest,khamsat_interest,17
+,Eastern Province,google_trends,google_trends,search_interest,khamsat_interest,13
+,Hail Province,google_trends,google_trends,search_interest,mostaql_interest,9
+,Al Jowf,google_trends,google_trends,search_interest,mostaql_interest,8
+,Jazan,google_trends,google_trends,search_interest,mostaql_interest,7
+,Aseer Province,google_trends,google_trends,search_interest,mostaql_interest,9
+,Northern Borders Province,google_trends,google_trends,search_interest,mostaql_interest,8
+,Najran,google_trends,google_trends,search_interest,mostaql_interest,6
+,Tabuk Province,google_trends,google_trends,search_interest,mostaql_interest,7
+,Al Bahah Province,google_trends,google_trends,search_interest,mostaql_interest,10
+,Al Qassim,google_trends,google_trends,search_interest,mostaql_interest,11
+,Al Madinah Province,google_trends,google_trends,search_interest,mostaql_interest,10
+,Makkah Province,google_trends,google_trends,search_interest,mostaql_interest,9
+,Riyadh Province,google_trends,google_trends,search_interest,mostaql_interest,10
+,Eastern Province,google_trends,google_trends,search_interest,mostaql_interest,8
+2026-02-27,saudi_general,khamsat,khamsat,أخرى,project_count,2
+2026-02-27,saudi_general,khamsat,khamsat,تصميم,project_count,1
+2026-02-28,saudi_general,khamsat,khamsat,أخرى,project_count,6
+2026-02-28,saudi_general,khamsat,khamsat,برمجة,project_count,5
+2026-02-28,saudi_general,khamsat,khamsat,تسويق,project_count,1
+2026-02-28,saudi_general,khamsat,khamsat,تصميم,project_count,4
+2026-02-28,saudi_general,khamsat,khamsat,فيديو,project_count,1
+2026-03-01,saudi_general,khamsat,khamsat,برمجة,project_count,1
+2026-03-01,saudi_general,khamsat,khamsat,تسويق,project_count,1
+2026-03-01,saudi_general,khamsat,khamsat,فيديو,project_count,2
